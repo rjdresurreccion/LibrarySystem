@@ -1,0 +1,14 @@
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\MainWindow.g.cs
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\App.g.cs
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem_MarkupCompile.cache
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem_MarkupCompile.lref
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\MainWindow.baml
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.g.resources
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Alienware\Documents\Visual Studio Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
